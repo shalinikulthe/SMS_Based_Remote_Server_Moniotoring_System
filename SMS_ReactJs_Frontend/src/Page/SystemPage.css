@@ -1,0 +1,12 @@
+table {
+    margin-top: 2rem;
+}
+
+.system-form {
+    margin-top: 2rem;
+}
+
+.system-btn {
+    display: flex;
+    align-items: end;
+}
